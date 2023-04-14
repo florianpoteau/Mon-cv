@@ -1,0 +1,136 @@
+body{
+    margin: 2%;
+}
+
+.flex1{
+    display: flex;
+    flex-direction: row;
+}
+.flex2{
+    display: flex;
+    width: 30%;
+    flex-direction: column;
+    background-color:#04090d59 ;
+    padding: 3%;
+}
+
+.flex3{
+    display: flex;
+    width: 70%;
+    flex-direction: column;
+    background-color: #448d8ba3;
+}
+
+hr{
+    border: 1px solid;
+    width: 90%;
+    margin: 0;
+}
+
+.image {
+   width: 65%; 
+}
+
+h1 {
+   text-align: center;
+   font-size: 40px;
+   
+}
+
+
+.h3 {
+    margin-top: 10%;
+    font-size: 25px;
+}
+
+p{
+    margin: 3%;
+}
+
+.gras {
+    font-weight: bold;
+}
+
+.italique{
+    font-style: italic;
+}
+
+.mail{
+    color: black;
+    margin-bottom: 3%;
+}
+
+#codePostal{
+    margin: 0;
+    margin-left: 3%;
+}
+
+.developpeur{
+    font-size: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+}
+
+.description{
+    width: 65%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.blanc{
+    color: white;
+}
+
+.langue{
+    margin: 0;
+}
+
+.github{
+    margin-top: 3%;
+    width: 8%;
+}
+
+.Titredroite{
+    margin-left: 18%;
+    font-size: 25px;
+}
+
+.hr{
+    margin-left: 15%;
+    width: 80%;
+}
+
+.date{
+    margin-left: 18%;
+}
+
+.texteDroite{
+    margin: 0;
+    margin-top: 8px;
+    margin-left: 18%;
+}
+
+.date1{
+    margin-bottom: 0;
+}
+
+a{
+    text-decoration: none;
+    color: #2121c7b8;
+    
+}
+
+ul{
+    margin-bottom: 2%;
+}
+
+
+
+
+
+
+
+
